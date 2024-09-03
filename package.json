@@ -5,6 +5,7 @@
   "main": "index.js",
   "files": [
     "index.js",
+    "index.js.map",
     "index.ts",
     "LICENSE.txt"
   ],
